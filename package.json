@@ -2,13 +2,13 @@
   "name": "react-widgets",
   "version": "4.4.7",
   "description": "An à la carte set of polished, extensible, and accessible inputs built for React",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "author": {
     "name": "Jason",
     "email": "monastic.panic@gmail.com"
   },
   "files": [
-    "src",
+    "lib",
     "dist"
   ],
   "keywords": [
