@@ -14,7 +14,7 @@ export let presets = {
     let keywords = b.split(" ");
     if(keywords.length){
      keywords.forEach(keyword => {
-       if(a.indexOf(keyword) === -1{
+       if(a.indexOf(keyword) === -1){
           return false;
        }
      })
