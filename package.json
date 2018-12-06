@@ -8,7 +8,7 @@
     "email": "monastic.panic@gmail.com"
   },
   "files": [
-    "lib",
+    "src",
     "dist"
   ],
   "keywords": [
